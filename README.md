@@ -1,2 +1,11 @@
 # chip8-luau
-Very fast CHIP-8 emulation, native codegen, lightweight
+# Advantages
+- Very fast emulation
+- Native codegen
+- Strict types
+- Lightweight CHIP8 Instance
+## Screenshots
+AstroDodge
+![Uploading изображение.png…]()
+![Uploading изображение.png…]()
+![Uploading изображение.png…]()
